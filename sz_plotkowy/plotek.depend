@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479751852 source:d:\kryptografia\plotek\main.c
+	<stdio.h>
+	<stdlib.h>
+

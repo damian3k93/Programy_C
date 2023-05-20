@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1477334813 source:d:\kryptografia\krypt_cezar\szyfr_cezara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481232541 source:d:\metody\m_num\calkowanie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478456897 source:d:\metody\metoda_bisekcji\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

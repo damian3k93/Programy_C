@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477127497 source:d:\metody\schemat_hornera\main.c
+	<stdio.h>
+	<stdlib.h>
+

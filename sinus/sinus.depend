@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477630431 source:d:\metody\sinus\main.c
+	<stdio.h>
+	<stdlib.h>
+
